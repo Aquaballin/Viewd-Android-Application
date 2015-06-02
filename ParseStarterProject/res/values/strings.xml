@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, ParseStarterProjectActivity!</string>
+    <string name="app_name">Viewd</string>
+
+
+
+        <string name="ptr_pull_to_refresh">Pull to refresh</string>
+        <string name="ptr_release_to_refresh">Release to refresh</string>
+        <string name="ptr_refreshing">Refreshing…</string>
+        <string name="ptr_last_updated">Updated: %1$s</string>
+    <string name="title_activity_splash_screen">Viewd</string>
+
+    <string name="hello_world">Welcome to the Viewd App Beta!
+        This beta was launched to test the transparency among android devices and get some feedback from users.
+    The app does not currently have picture deletion so make sure the pictures you are uploading are meant to stay! </string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_disclaimer">Viewd Beta</string>
+<string name="dis">YES THIS IS BORING BUT YOU SHOULD READ IT NOW! END USER LICENSE AGREEMENT: THIS IS A LEGAL AGREEMENT BETWEEN YOU AND VIEWD APPLICATION. You hereby agree that your
+use of the software acknowledges that you have read this agreement and agree to it bound by its terms and conditions. (1) Viewd grants you a limited
+, revocable, non-exclusive, non-transferable license to use the app sole for your own individual use. You agree to not resell or make any
+commercial use of the application. (2) You may not make any changes to this particular application and its internal APK files. (3) You agree
+the intellectual property inherent in the application is property of Casey Software Group and Viewd application respectively. (4) Limitation of
+Liability: Viewd is not responsible for any type of potential damage caused by the applications mechanics itself. (DO NOT POST SOMETHING THAT
+YOU ARE HESITANT ABOUT, IT MAY NOT COME DOWN FOR A CONSIDERABLE AMOUNT OF TIME - THIS IS BETA LAUNCH) (5) This app will be goverened in accordance
+with Virginia state law. (6) You understand that this app uses and displays your geolocation upon uploading images. BY CONTINUING YOU AGREE TO TERMS AND CONDITIONS. NOTICE: IF YOU PRESS "SAVE" AFTER TAKING A PICTURE IT WILL IMMEDIATELY UPLOAD TO CLOUD! If you need support please email "viewd.app@gmail.com"</string>
+
+
+
+
+
+</resources>

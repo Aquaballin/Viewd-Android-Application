@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/davidcasey/Downloads/Parse-Starter-Project-1.8.2 (7) 2/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="a08d65794b844d8e7540bf9a33859bf3b2482d7f">
+        <dex dex="/Users/davidcasey/Downloads/Parse-Starter-Project-1.8.2 (7) 2/ParseStarterProject/build/intermediates/pre-dexed/debug/classes-ad850541cef569162d9f672782f2d9f3fea1dfc5.jar" />
+    </item>
+    <item
+        jar="/Users/davidcasey/Downloads/Parse-Starter-Project-1.8.2 (7) 2/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="9224bc4c54ba95147c7eabd874573763c07cb6be">
+        <dex dex="/Users/davidcasey/Downloads/Parse-Starter-Project-1.8.2 (7) 2/ParseStarterProject/build/intermediates/pre-dexed/debug/classes-6845ffad17cec37cb58ab7e93c4691788c6b21e3.jar" />
+    </item>
+    <item
+        jar="/Users/davidcasey/Downloads/Parse-Starter-Project-1.8.2 (7) 2/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/Users/davidcasey/Downloads/Parse-Starter-Project-1.8.2 (7) 2/ParseStarterProject/build/intermediates/pre-dexed/debug/classes-0017b32a6fbcb475df4605ca213b08eb44cd1218.jar" />
+    </item>
+    <item
+        jar="/Users/davidcasey/Downloads/Parse-Starter-Project-1.8.2 (7) 2/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="3033cc3a2c68dff3e5b646d6d084bdbdf7d00b25">
+        <dex dex="/Users/davidcasey/Downloads/Parse-Starter-Project-1.8.2 (7) 2/ParseStarterProject/build/intermediates/pre-dexed/debug/classes-2e5b63574f8630d79ec63a61bc85538a50e72c72.jar" />
+    </item>
+    <item
+        jar="/Users/davidcasey/Downloads/Parse-Starter-Project-1.8.2 (7) 2/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="29fd6d3794b71491c2789708cd8d03c71feb8954">
+        <dex dex="/Users/davidcasey/Downloads/Parse-Starter-Project-1.8.2 (7) 2/ParseStarterProject/build/intermediates/pre-dexed/debug/classes-4849d7c2610b01228f5dc37c17b6dadb7e5c1ec8.jar" />
+    </item>
+    <item
+        jar="/Users/davidcasey/Downloads/Parse-Starter-Project-1.8.2 (7) 2/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/davidcasey/Downloads/Parse-Starter-Project-1.8.2 (7) 2/ParseStarterProject/build/intermediates/pre-dexed/debug/classes-1bd3384561c7dca3ad9c8bdd5b3e468eb903f450.jar" />
+    </item>
+    <item
+        jar="/Users/davidcasey/Downloads/Parse-Starter-Project-1.8.2 (7) 2/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="e3d791b42eaa90416cd0b2d2e608092794a3baa4">
+        <dex dex="/Users/davidcasey/Downloads/Parse-Starter-Project-1.8.2 (7) 2/ParseStarterProject/build/intermediates/pre-dexed/debug/classes-1616a415497aafd7442289fedd706d87659911bf.jar" />
+    </item>
+    <item
+        jar="/Users/davidcasey/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.1.4/129874135e6081269ace2312092031558865de12/bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="/Users/davidcasey/Downloads/Parse-Starter-Project-1.8.2 (7) 2/ParseStarterProject/build/intermediates/pre-dexed/debug/bolts-android-1.1.4-28eea6b42cbd620b0779bb2868917501a4ed87d3.jar" />
+    </item>
+    <item
+        jar="/Users/davidcasey/Downloads/Parse-Starter-Project-1.8.2 (7) 2/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="17f8750d5c0749e44dd7c54aa390d9c937803825">
+        <dex dex="/Users/davidcasey/Downloads/Parse-Starter-Project-1.8.2 (7) 2/ParseStarterProject/build/intermediates/pre-dexed/debug/classes-4fac43df0b10c10eebedcbbba25f4966ee275e30.jar" />
+    </item>
+    <item
+        jar="/Users/davidcasey/Downloads/Parse-Starter-Project-1.8.2 (7) 2/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="73ccb92b70112f2e463e415ef8d7275de7da6516">
+        <dex dex="/Users/davidcasey/Downloads/Parse-Starter-Project-1.8.2 (7) 2/ParseStarterProject/build/intermediates/pre-dexed/debug/classes-457b6c4c1668cc2bb93b740207acac66ad76be9b.jar" />
+    </item>
+    <item
+        jar="/Users/davidcasey/Downloads/Parse-Starter-Project-1.8.2 (7) 2/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
+        <dex dex="/Users/davidcasey/Downloads/Parse-Starter-Project-1.8.2 (7) 2/ParseStarterProject/build/intermediates/pre-dexed/debug/classes-f3c5b1cdbf5afe24bc78ca8310c7894efc5ad353.jar" />
+    </item>
+    <item
+        jar="/Users/davidcasey/Downloads/Parse-Starter-Project-1.8.2 (7) 2/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="3c0b099f9de16b265ecd6122fcb603e7d0d29f90">
+        <dex dex="/Users/davidcasey/Downloads/Parse-Starter-Project-1.8.2 (7) 2/ParseStarterProject/build/intermediates/pre-dexed/debug/classes-175b30d75f814f36dece0528c297333a704444c0.jar" />
+    </item>
+    <item
+        jar="/Users/davidcasey/Desktop/adt-bundle-mac-x86_64-20140321/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Users/davidcasey/Downloads/Parse-Starter-Project-1.8.2 (7) 2/ParseStarterProject/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-0564073b08ddd6592026e498a09f105a24b1319c.jar" />
+    </item>
+    <item
+        jar="/Users/davidcasey/Downloads/Parse-Starter-Project-1.8.2 (7) 2/ParseStarterProject/libs/Parse-1.8.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="c2cb0bfe37cbefd855b6faa3c9a5be833aba7300">
+        <dex dex="/Users/davidcasey/Downloads/Parse-Starter-Project-1.8.2 (7) 2/ParseStarterProject/build/intermediates/pre-dexed/debug/Parse-1.8.2-8ae25295b0249fc6fb5744206d1599f807c22394.jar" />
+    </item>
+    <item
+        jar="/Users/davidcasey/Downloads/Parse-Starter-Project-1.8.2 (7) 2/ParseStarterProject/libs/ParseCrashReporting-1.8.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="ccf9e90414e7bb2cf09f4d7c77c42f70c690e118">
+        <dex dex="/Users/davidcasey/Downloads/Parse-Starter-Project-1.8.2 (7) 2/ParseStarterProject/build/intermediates/pre-dexed/debug/ParseCrashReporting-1.8.2-2b265a646ff9d367fc9d16d37305427e26501913.jar" />
+    </item>
+    <item
+        jar="/Users/davidcasey/Downloads/Parse-Starter-Project-1.8.2 (7) 2/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="7ff613bf78ab057293892fdbd4169eda899c89b9">
+        <dex dex="/Users/davidcasey/Downloads/Parse-Starter-Project-1.8.2 (7) 2/ParseStarterProject/build/intermediates/pre-dexed/debug/classes-6bd416b57183876bdf4d109457292b2733d73328.jar" />
+    </item>
+    <item
+        jar="/Users/davidcasey/Downloads/Parse-Starter-Project-1.8.2 (7) 2/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="41b3870cbe5fa546d8095b5b89d42cb69f3dd175">
+        <dex dex="/Users/davidcasey/Downloads/Parse-Starter-Project-1.8.2 (7) 2/ParseStarterProject/build/intermediates/pre-dexed/debug/classes-c46e4b11f553f4a11c75186cd5d6e22998adf87b.jar" />
+    </item>
+    <item
+        jar="/Users/davidcasey/Downloads/Parse-Starter-Project-1.8.2 (7) 2/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="ef5f051e7308febe289dc93c67c5f32785b4260a">
+        <dex dex="/Users/davidcasey/Downloads/Parse-Starter-Project-1.8.2 (7) 2/ParseStarterProject/build/intermediates/pre-dexed/debug/classes-0f43461f488bb6695acb5b3efb0ebc3c01340e8b.jar" />
+    </item>
+    <item
+        jar="/Users/davidcasey/Downloads/Parse-Starter-Project-1.8.2 (7) 2/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="c976518693e89ad44fbfccfc654941eaec198d08">
+        <dex dex="/Users/davidcasey/Downloads/Parse-Starter-Project-1.8.2 (7) 2/ParseStarterProject/build/intermediates/pre-dexed/debug/classes-c5d6f495934b939316eeaa0d18301f832a606c78.jar" />
+    </item>
+    <item
+        jar="/Users/davidcasey/Downloads/Parse-Starter-Project-1.8.2 (7) 2/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="1c5a76debf0c2857ccad422c4a80ed785982f8df">
+        <dex dex="/Users/davidcasey/Downloads/Parse-Starter-Project-1.8.2 (7) 2/ParseStarterProject/build/intermediates/pre-dexed/debug/classes-8d3b2427f84e7bd3008f145badbf08c3c1a8987f.jar" />
+    </item>
+    <item
+        jar="/Users/davidcasey/Downloads/Parse-Starter-Project-1.8.2 (7) 2/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="0e8228b4bc69c6a2c8d7c18498a77e53417d2574">
+        <dex dex="/Users/davidcasey/Downloads/Parse-Starter-Project-1.8.2 (7) 2/ParseStarterProject/build/intermediates/pre-dexed/debug/classes-180118519557fc0120bc58c662cac0c1cbad6cbb.jar" />
+    </item>
+    <item
+        jar="/Users/davidcasey/Downloads/Parse-Starter-Project-1.8.2 (7) 2/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="fb04b12526b0073c7fb1ebb70c5842d82ee95596">
+        <dex dex="/Users/davidcasey/Downloads/Parse-Starter-Project-1.8.2 (7) 2/ParseStarterProject/build/intermediates/pre-dexed/debug/classes-fe931c9ec04ac0a55b8cef8c36930344b82fc9b6.jar" />
+    </item>
+    <item
+        jar="/Users/davidcasey/Downloads/Parse-Starter-Project-1.8.2 (7) 2/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/davidcasey/Downloads/Parse-Starter-Project-1.8.2 (7) 2/ParseStarterProject/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-096f144d071822465a8f1bf742f0a247aa1cd13e.jar" />
+    </item>
+    <item
+        jar="/Users/davidcasey/Downloads/Parse-Starter-Project-1.8.2 (7) 2/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="a96b762bde4139de855735f175ec4d17dca55a6d">
+        <dex dex="/Users/davidcasey/Downloads/Parse-Starter-Project-1.8.2 (7) 2/ParseStarterProject/build/intermediates/pre-dexed/debug/classes-cbb810b7e5b3b7eb5680baf6436d74d9635af29a.jar" />
+    </item>
+    <item
+        jar="/Users/davidcasey/Downloads/Parse-Starter-Project-1.8.2 (7) 2/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="4cd0b093824b3228fffc21ea369b98d0b1db6566">
+        <dex dex="/Users/davidcasey/Downloads/Parse-Starter-Project-1.8.2 (7) 2/ParseStarterProject/build/intermediates/pre-dexed/debug/classes-d302d701dfbfb0200a48270bd5227504d3c4816b.jar" />
+    </item>
+    <item
+        jar="/Users/davidcasey/Downloads/Parse-Starter-Project-1.8.2 (7) 2/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="055783146ba9654a725442563be78cad303aad1f">
+        <dex dex="/Users/davidcasey/Downloads/Parse-Starter-Project-1.8.2 (7) 2/ParseStarterProject/build/intermediates/pre-dexed/debug/classes-4c8eb3ecfb4c76b15fb26f493a69329383fb68f9.jar" />
+    </item>
+
+</items>
